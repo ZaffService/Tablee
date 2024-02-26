@@ -1,0 +1,21 @@
+td{
+    border: solid 1px;
+    text-align: center;
+    padding: 15px;
+}
+th{
+    border: solid 1px;
+}
+table{
+    border-collapse: ;
+    border: solid 1px;
+    margin: auto;
+    justify-content: center;
+
+    height: 50px;
+    width: 650px;
+   
+}
+.rouge{
+    color:red;
+}
